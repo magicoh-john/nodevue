@@ -10,6 +10,7 @@ public class TestClass {
 		System.out.println("Hello! This is Github practice");
 		System.out.println("Hi everybody");
 		//Github practice
+		System.out.println("I'm fine from git");
 
 	}
 
