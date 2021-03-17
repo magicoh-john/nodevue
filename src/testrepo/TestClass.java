@@ -11,6 +11,7 @@ public class TestClass {
 		System.out.println("Hi everybody");
 		//Github practice
 		System.out.println("I'm fine from git");
+		System.out.println("Hi git! my name is magioch");
 
 	}
 
