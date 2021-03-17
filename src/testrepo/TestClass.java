@@ -12,6 +12,7 @@ public class TestClass {
 		//Github practice
 		System.out.println("I'm fine from git");
 		System.out.println("Hi git! my name is magioch");
+		System.out.println("로컬에서 고친 소스");
 
 	}
 
